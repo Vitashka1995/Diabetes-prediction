@@ -18,7 +18,7 @@ To compare classical and advanced ML models in predicting diabetes status, with 
 ## Key Results
 - **Logistic Regression** performed best: ROC-AUC 0.88, PR-AUC 0.81
 - Top features: Glucose, BMI, Pregnancies, BMI_Category_obese
-- Class imbalance addressed via stratification and SMOTE/SMOTETomek
+- Class imbalance addressed via stratification and class weights
 
 ## Dataset
 Dataset provided by course instructor. Contains 768 samples, 8 features, and binary outcome.
