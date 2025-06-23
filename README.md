@@ -20,8 +20,12 @@ To compare classical and advanced ML models in predicting diabetes status, with 
 - Top features: Glucose, BMI, Pregnancies, BMI_Category_obese
 - Class imbalance addressed via stratification and class weights
 
-## Dataset
-Dataset provided by course instructor. Contains 768 samples, 8 features, and binary outcome.
+## License
+This project is intended for **educational and academic use only**.  
+The dataset used in this project was provided for coursework and is **not publicly licensed** or redistributed.
+
+Feel free to use and modify the code for learning purposes.
+
 
 ## Files
 - `Diabetes_Prediction.ipynb` – Full analysis notebook
